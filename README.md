@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brantheeman
 - 👀 I’m interested in Linux, Cloud, and JavaScript
-- 🌱 I’m currently learning JavaScript, React, Laravel
+- 🌱 I’m currently learning Typescript, React, Laravel
 - 🧑‍💻 I'm on the path to becoming a Full-Stack Developer and future Cloud Engineer!
 - 💞️ I’m looking to collaborate on all full stack web development projects.
 - 📫 How to reach me https://www.linkedin.com/in/brandan-p-267549114/
