@@ -5,7 +5,7 @@
 A passionate Full-stack Software Engineer who loves diving deep into enriching stories of single-player video games. Crafting code, just like narratives in games, is an art – and I'm all about it.
 
 ## 🎮 Gaming Favorites
-- [Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+- ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 - 🌌 **Genre**: Single-player games
 - 📖 **What I Love**: Deep-enriched stories that captivate and inspire.
 
