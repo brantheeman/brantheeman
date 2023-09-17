@@ -1,5 +1,3 @@
-![Brandan Pratt Banner](YOUR_BANNER_IMAGE_URL)
-
 # Hello, World! 👋 I'm Brandan Pratt
 
 A passionate Full-stack Software Engineer who loves diving deep into enriching stories of single-player video games. Crafting code, just like narratives in games, is an art – and I'm all about it.
