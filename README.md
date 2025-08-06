@@ -12,7 +12,7 @@
 
 ## 🌐 Let's Connect
 - 🐦 Twitter: 
-- 🌍 Portfolio:
+- 🌍 Portfolio: https://portfolio-website-brandan.vercel.app/
 - 📫 Email: brandan.pratt1@gmail.com
 
 
